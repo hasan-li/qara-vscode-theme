@@ -1,9 +1,12 @@
 {
-    "name": "qara",
+    "name": "Qara",
     "displayName": "Qara",
-    "description": "Combined Gatito and Sublime color theme",
-    "version": "0.0.1",
+    "description": "Minimalistic fork of Sublime's Oceanic theme with less colors",
+    "version": "0.1.0",
     "publisher": "HasanHasanli",
+    "maintainers": [
+        "Hasan Hasanli <gasanello@gmail.com>"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/hasan-li/qara-vscode-theme"
@@ -12,7 +15,10 @@
         "Theme",
         "Dark Theme",
         "Night Theme",
-        "Qara"
+        "Qara",
+        "Color-theme",
+        "Sublime",
+        "Oceanic"
     ],
     "scripts": {
         "publish": "vsce publish"
@@ -27,7 +33,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "dark-ocean.jpeg",
+    "icon": "qara.png",
     "contributes": {
         "themes": [
             {
