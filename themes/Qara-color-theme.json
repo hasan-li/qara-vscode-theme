@@ -4,7 +4,6 @@
   "semanticHighlighting": false,
   "colors": {
 		"editor.background": "#2a3138",
-		// "editor.background": "#2a3138",
     "editor.foreground": "#D8DEE9",
 
 		"editor.selectionBackground": "#4E5A65",
@@ -15,8 +14,8 @@
     "editor.wordHighlightBackground": "#FFFFFF00",
     "editor.wordHighlightStrongBackground": "#FFFFFF00",
 
-    "editor.findMatchBackground": "#FAC761c0",
-		"editor.findMatchBorder": "#ffffff00",
+    "editor.findMatchBackground": "#ffffff44",
+		"editor.findMatchBorder": "#F9AE58c0",
 		"editor.findMatchHighlightBackground": "#ffffff00",
 		"editor.findMatchHighlightBorder": "#5FB4B4c0",
 		"editor.findRangeHighlightBackground": "#3E4A55",
@@ -247,7 +246,7 @@
     "gitDecoration.modifiedResourceForeground": "#a2bffc",
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#c5e478ff",
-    "gitDecoration.ignoredResourceForeground": "#395a75",
+    "gitDecoration.ignoredResourceForeground": "#808080",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
 
     "textBlockQuote.background": "#1f2429",
@@ -308,6 +307,13 @@
         "scope": "variable.member",
         "settings": {
           "foreground": "#EC5F66"
+        }
+    },
+    {
+        "name": "JSON property name",
+        "scope": "support.type.property-name.json",
+        "settings": {
+          "fontStyle": ""
         }
     },
     {
@@ -381,30 +387,6 @@
           "fontStyle": "italic"
         }
     },
-    // {
-    //     "name": "JS object",
-    //     "scope": ["meta.function-call.js", "meta.block.js", "variable.other.object.js"],
-    //     "settings": {
-    //       "foreground": "#6699CC",
-    //       "fontStyle": "italic"
-    //     }
-    // },
-    // {
-    //   "name": "Entity name",
-    //   "scope": ["entity.name.function.js", "meta.definition.function.js", "meta.function.js", "source.js"],
-    //   "settings": {
-    //     "foreground": "#5FB4B4",
-    //     "fontStyle": ""
-    //   }
-    // },
-    // // {
-    // //     "name": "JS object",
-    // //     "scope": ["variable.other.object.js", "meta.function-call.js", "meta.block.js", "meta.function.js", "source.js"],
-    // //     "settings": {
-    // //       "foreground": "#6699CC",
-    // //       "fontStyle": ""
-    // //     }
-    // // },
     {
       "name": "Function, Special Method, Block Level",
       "scope": "meta.function-call.js",
