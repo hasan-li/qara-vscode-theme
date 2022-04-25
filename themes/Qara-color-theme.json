@@ -267,10 +267,24 @@
       }
     },
     {
-        "name": "String",
-        "scope": "string",
+      "name": "String",
+      "scope": "string",
+      "settings": {
+        "foreground": "#99C794"
+      }
+    },
+    {
+        "name": "String template",
+        "scope": "string.template.js.jsx, meta.template.expression.js, string.template.js, string.template.ts",
         "settings": {
-          "foreground": "#99C794"
+          "foreground": "#D8DEE9"
+        }
+    },
+    {
+        "name": "String template",
+        "scope": "constant.numeric.css",
+        "settings": {
+          "foreground": "#D8DEE9"
         }
     },
     {
@@ -291,7 +305,7 @@
         "name": "Built-in constant",
         "scope": "constant.language",
         "settings": {
-          "foreground": "#EC5F66",
+          "foreground": "#C695C6",
           "fontStyle": "italic"
         }
     },
@@ -327,7 +341,7 @@
         "name": "Operators",
         "scope": "keyword.operator",
         "settings": {
-          "foreground": "#F97B58"
+          "foreground": "#F9AE58"
         }
     },
     {
@@ -369,7 +383,7 @@
         "name": "Storage",
         "scope": "storage",
         "settings": {
-          "foreground": "#EC5F66"
+          "foreground": "#D8DEE9"
         }
     },
     {
