@@ -1,8 +1,11 @@
-# Gatito Theme
+# Qara Theme
 
-![QARA Theme Version](https://vsmarketplacebadge.apphb.com/version-short/HasanHasanli.qara.svg) ![QARA Theme Downloads](https://vsmarketplacebadge.apphb.com/installs-short/HasanHasanli.qara.svg) ![QARA Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/HasanHasanli.qara.svg)
+[![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/hasan-li/qara-vscode-theme/blob/main/LICENSE)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/HasanHasanli.qara)](https://marketplace.visualstudio.com/items?itemName=HasanHasanli.qara)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/HasanHasanli.qara)](https://marketplace.visualstudio.com/items?itemName=HasanHasanli.qara&ssr=false#review-details)
 
-Minimalistic fork of [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme) for Sublime Text, built with theme with less colors
+
+Minimalistic fork of [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme) from Sublime Text, built with theme with less colors
 
 Credits also to fantastic [Gatito theme](https://github.com/pawelgrzybek/gatito-theme)
 
@@ -16,14 +19,14 @@ Credits also to fantastic [Gatito theme](https://github.com/pawelgrzybek/gatito-
 
 ## Preview
 
-![Gatito Theme - Logo](./qara.png)
+![Qara Theme - Main view](images/qara-theme_1.png)
 
-![Gatito Theme - Main view](images/qara-theme_1.png)
+![Qara Theme - Main view](images/qara-theme_2.png)
 
-![Gatito Theme - Main view](images/qara-theme_2.png)
+![Qara Theme - Main view](images/qara-theme_3.png)
 
-![Gatito Theme - Main view](images/qara-theme_3.png)
+![Qara Theme - Main view](images/qara-theme_4.png)
 
-![Gatito Theme - Main view](images/qara-theme_4.png)
+![Qara Theme - Main view](images/qara-theme_5.png)
 
-![Gatito Theme - Main view](images/qara-theme_5.png)
+![Qara Theme - Logo](./qara.png)
