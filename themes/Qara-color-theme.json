@@ -484,7 +484,7 @@
     },
     {
         "name": "JSX component",
-        "scope": "variable.other.property.tsx",
+        "scope": "variable.other.property.tsx, variable.other.property.jsx, variable.other.property.ts, variable.other.property.js",
         "settings": {
           "foreground": "#D8DEE9",
           "fontStyle": ""
