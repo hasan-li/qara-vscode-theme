@@ -9,7 +9,7 @@
 		"editor.selectionBackground": "#4E5A65",
     "editor.selectionHighlightBackground": "#1a2128",
     "editor.selectionHighlightBorder": "#5FB4B4",
-    "editor.inactiveSelectionBackground": "#4E5A65",
+    "editor.inactiveSelectionBackground": "#4E5A6588",
 
     "editor.wordHighlightBackground": "#FFFFFF00",
     "editor.wordHighlightStrongBackground": "#FFFFFF00",
@@ -71,17 +71,16 @@
 
 		"sideBar.background": "#1a2128",
     "sideBar.foreground": "#D4D4D4",
-    "sideBar.border": "#333D3D",
+    "sideBar.border": "#1a2128",
     "sideBarTitle.foreground": "#D4D4D4",
     "sideBarSectionHeader.background": "#1a2128",
     "sideBarSectionHeader.foreground": "#D4D4D4",
 
-		"activityBar.background": "#1a2128",
-    "activityBar.dropBackground": "#1f2429",
+		"activityBar.background": "#1c232a",
     "activityBar.foreground": "#D4D4D4",
-    "activityBar.border": "#333D3D",
-    "activityBarBadge.background": "#1a2128",
-    "activityBarBadge.foreground": "#D4D4D4",
+    "activityBar.border": "#1c232a",
+    "activityBarBadge.background": "#EF5350",
+    "activityBarBadge.foreground": "#1c232a",
 
     "contrastBorder": "#1f2429a9",
     "focusBorder": "#122d42",
@@ -112,7 +111,7 @@
     "scrollbarSlider.hoverBackground": "#FFFFFF1F",
     "badge.background": "#333D3D",
     "badge.foreground": "#D4D4D4",
-		
+
     "breadcrumb.foreground": "#D4D4D4",
     "breadcrumb.focusForeground": "#88BBEECC",
     "breadcrumb.activeSelectionForeground": "#FFFFFF",

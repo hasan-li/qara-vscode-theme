@@ -25,4 +25,6 @@ Credits also to fantastic [Gatito theme](https://github.com/pawelgrzybek/gatito-
 
 ![Qara Theme - Main view](images/code3.png)
 
+![Qara Theme - Main view](images/code4.png)
+
 ![Qara Theme - Logo](./qara.png)
